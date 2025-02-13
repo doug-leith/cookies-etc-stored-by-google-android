@@ -1,0 +1,30 @@
+com.google.android.apps.messaging:  https://www.googleapis.com/auth/android-messages https://www.googleapis.com/auth/carrier-message-store
+
+
+com.google.android.apps.pixel.dcservice:  https://www.googleapis.com/auth/notifications
+
+
+com.google.android.gms:  https://www.googleapis.com/auth/accounts.reauth https://www.googleapis.com/auth/numberer https://www.googleapis.com/auth/cryptauth https://www.googleapis.com/auth/account_settings_mobile https://www.googleapis.com/auth/android_checkin https://www.googleapis.com/auth/userlocation.reporting https://www.googleapis.com/auth/sierra https://www.googleapis.com/auth/android_platform_backup_restore https://www.googleapis.com/auth/tachyon https://www.googleapis.com/auth/subscriptions https://www.googleapis.com/auth/notifications https://www.googleapis.com/auth/games.firstparty https://www.googleapis.com/auth/login_manager https://www.googleapis.com/auth/locationhistory https://www.googleapis.com/auth/peopleapi.legacy.readwrite https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/nearbysharing-pa https://www.googleapis.com/auth/lc.anonymous https://www.googleapis.com/auth/spot https://www.googleapis.com/auth/cclog https://www.googleapis.com/auth/googleplay https://www.googleapis.com/auth/account.service_flags https://www.googleapis.com/auth/firebase.messaging https://www.googleapis.com/auth/mobile_user_preferences https://www.googleapis.com/auth/account.capabilities https://www.googleapis.com/auth/peopleapi.readwrite https://www.googleapis.com/auth/playatoms email https://www.googleapis.com/auth/gcm https://www.googleapis.com/auth/semanticlocation.readonly https://www.googleapis.com/auth/mobileapps.doritos.cookie https://www.googleapis.com/auth/android_device_manager https://www.googleapis.com/auth/googleplay.enterprise https://www.googleapis.com/auth/peopleapi.readonly https://www.googleapis.com/auth/auditrecording-pa https://www.googleapis.com/auth/account.restricted_apps https://www.googleapis.com/auth/webhistory https://www.googleapis.com/auth/experimentsandconfigs openid
+
+
+com.google.android.googlequicksearchbox:  https://www.googleapis.com/auth/assistant https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/webhistory https://www.google.com/accounts/OAuthLogin https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/notifications https://www.googleapis.com/auth/googlenow
+
+
+com.google.android.apps.docs:  https://www.googleapis.com/auth/discussions https://www.googleapis.com/auth/drive.activity.readonly https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/cloud_search.query https://www.googleapis.com/auth/drive.labels.readonly https://www.googleapis.com/auth/memento https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/subscriptions https://www.googleapis.com/auth/vouchers https://www.googleapis.com/auth/activity https://www.googleapis.com/auth/spreadsheets https://www.googleapis.com/auth/peopleapi.readonly https://www.googleapis.com/auth/drive.apps https://www.googleapis.com/auth/drive.readonly https://www.googleapis.com/auth/drive.metadata.readonly https://www.googleapis.com/auth/docs https://www.googleapis.com/auth/cloudprint https://www.googleapis.com/auth/notifications https://www.googleapis.com/auth/peopleapi.readwrite https://www.googleapis.com/auth/gmail.readonly
+
+
+com.android.vending:  https://www.googleapis.com/auth/experimentsandconfigs https://www.googleapis.com/auth/voledevice https://www.googleapis.com/auth/playatoms https://www.googleapis.com/auth/googleplay
+
+
+com.google.android.gm:  https://www.googleapis.com/auth/peopleapi.readonly https://mail.google.com/ https://www.googleapis.com/auth/espresso https://www.googleapis.com/auth/gmail.readonly https://www.googleapis.com/auth/notifications https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/gmail.full_access https://www.googleapis.com/auth/gmail.locker.read https://www.googleapis.com/auth/calendar.readonly https://www.googleapis.com/auth/gmail.ads https://www.googleapis.com/auth/reminders https://www.googleapis.com/auth/subscriptions https://www.googleapis.com/auth/taskassist.readonly https://www.googleapis.com/auth/chat https://www.googleapis.com/auth/gmail.publisher_first_party
+
+
+com.google.android.calendar:  https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/tasks https://www.googleapis.com/auth/notifications
+
+
+com.android.chrome:  profile openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email email
+
+
+com.google.android.videos:  https://www.googleapis.com/auth/android_video https://www.googleapis.com/auth/google_tv https://www.googleapis.com/auth/userinfo.email email openid
+
+

@@ -1,0 +1,7 @@
+# ignore large raw files, use zipped versions instead
+measurements_default_settings/pixel7_17dec2024_full.txt
+measurements_default_settings/0/
+measurements_default_settings/Takeout/
+measurements_privacy_conscious_settings/pixel7_19dec2024_full.txt
+measurements_privacy_conscious_settings/0/
+measurements_privacy_conscious_settings/Takeout/

@@ -1,0 +1,5 @@
+/* This file is required for site administration. Do not delete. */
+.devsite-heading-link {
+  --devsite-button-white-line-height: 24px;
+  --devsite-button-white-background-hover: transparent;
+}
