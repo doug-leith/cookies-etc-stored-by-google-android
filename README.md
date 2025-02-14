@@ -15,11 +15,15 @@ Files:
 - In folder ```measurements_default_settings```:  
     - `pixel7_17dec2024_full.txt.zip`   
     The decrypted/decoded network connections for the test with default settings.  
+    - `README.txt`  
+    Experiment log  
     - `0.zip`  
     A copy of /data/data from the Pixel handset used (this contains all the app data)
 - In folder`measurements_privacy_conscious_settings`:  
     - `pixel7_19dec2024_full.txt.zip`  
     The decrypted/decoded network connections for the test with privacy conscious settings.  
+    - `README.txt`  
+    Experiment log   
     - `0.zip`    
     A copy of /data/data from the Pixel handset used (this contains all the app data)
 - In folder `saved_web_pages`:  
